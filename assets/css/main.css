@@ -1030,15 +1030,6 @@ section,
   
 }
 
-.resume .resume-wrapper .timeline::before {
-  content: "";
-  position: absolute;
- right: 19%;
-  top: 0;
-  height: 100%;
-  width: 2px;
-  background-color: color-mix(in srgb, var(--accent-color), transparent 85%);
-}
 
 .resume .resume-wrapper .timeline .timeline-item {
   display: flex;
